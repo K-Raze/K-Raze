@@ -39,19 +39,7 @@ Data Structures • Algorithms • OOP • DBMS • OS • Computer Networks
 
 ---
 
-## 🚀 Projects
-
-### UpCode — Coding Skill Platform
-Full stack MERN platform for practicing programming with integrated IDE.
-
-Features
-
-- Skill assessment with difficulty tagging
-- Performance analytics
-- Secure authentication
-- Competitive leaderboard
-
----
+## 🚀 Project : 
 
 ### Smart Attendance Manager
 Classroom automation system with AI insights.
